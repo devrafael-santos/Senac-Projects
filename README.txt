@@ -1,0 +1,1 @@
+All the projects I did in the Senac course!
